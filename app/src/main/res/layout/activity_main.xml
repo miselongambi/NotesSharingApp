@@ -17,7 +17,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Note Content"
-        android:minLines="4"/>
+        android:minHeight="48dp"
+        android:minLines="4" />
 
     <Button
         android:id="@+id/addNoteButton"
@@ -41,5 +42,6 @@
         android:id="@+id/notesRecyclerView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1"/>
+        android:layout_weight="1"
+        android:contentDescription="List of notes" />
 </LinearLayout>
