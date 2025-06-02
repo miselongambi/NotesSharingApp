@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841085022182",
+    "project_id": "realtimequizapp-d1ec2",
+    "storage_bucket": "realtimequizapp-d1ec2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841085022182:android:075d2e681e41077ac9b027",
+        "android_client_info": {
+          "package_name": "com.example.notessharingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeXAwmBrGnSsiYsfu8aSFSxjSyLdkqsUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841085022182:android:4c1a7cbc12e49532c9b027",
+        "android_client_info": {
+          "package_name": "com.example.realtimequizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeXAwmBrGnSsiYsfu8aSFSxjSyLdkqsUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
